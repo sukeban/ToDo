@@ -15,7 +15,7 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
 
-public class ToDoActivity extends Activity{
+public class ToDoActivity extends Activity{ 
 	
 	private ArrayList<String> todoItems;
 	private ArrayAdapter<String> todoAdapter;
