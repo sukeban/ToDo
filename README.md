@@ -8,6 +8,7 @@ Time spent: 1 hour spent in total
 Completed user stories:
 
  * [x] Required: User can view a list of todo items
+ * [x] Required: User can add to the list
  * [x] Required: Tap and hold removes an item
  * [x] Optional: Can read and write items to a file
  
