@@ -17,4 +17,5 @@ Notes:
 The emulator and gif preview tool did not work well together and it dropped some frames which you will seee in the walkthorugh.
 
 Walkthrough of all user stories:
+
 ![Video Walkthrough](ToDoOutput.gif)
