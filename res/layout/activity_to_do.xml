@@ -10,7 +10,6 @@
         android:layout_height="380dp"
         android:layout_above="@+id/btAddTem"
         android:layout_alignParentTop="true" >
-
     </ListView>
 
     <EditText
